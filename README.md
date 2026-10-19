@@ -126,17 +126,7 @@ The project is developed with a multi-agent system on Claude Code that I built a
 5. **Review**: a reviewer agent checks every pull request against the task and the directives before merge.
 6. **Verification**: a tester agent writes the end-to-end tests and a security agent reviews the wave's diff before it reaches `main`.
 
-Two months of work, one developer and the agent system. Numbers from the repository, as of 16 Oct 2026:
-
-| Measure | Value |
-|---|---|
-| Features through the agent pipeline | 34 |
-| Waves | 153 |
-| Merged pull requests | 2,496 |
-| Commits on `main` | 1,638 |
-| Unit test files | 801 |
-| End-to-end spec files | 100 |
-| SQL migrations | 63 |
+Two months of work, one developer and the agent system.
 
 ---
 
