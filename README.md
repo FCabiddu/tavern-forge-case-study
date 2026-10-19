@@ -2,6 +2,8 @@
 
 An online fantasy tabletop RPG with an AI game master. Solo play, in the browser, no scheduling and no rulebooks required.
 
+![Xoria, the world of Tavern Forge](assets/xoria-panorama.jpg)
+
 ## Why
 
 I love fantasy tabletop RPGs and I work with AI, and I wanted the best of both. Tavern Forge is the product I would use myself: a way to play when there is nobody to play with and no evening free to organise. It is also the project where I test my own multi-agent development system on something real, changing it every day.
